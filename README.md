@@ -1,7 +1,8 @@
 
 # Trabajo académico final escrito: Genera una aplicación de inteligencia artificial que use librerías de software libre a través de herramientas colaborativas
 
-Este proyecto fue desarrollado en la plataforma de Google Colab, 
+Este proyecto se basó en un modelo predictivo que se encarga de estimar la productividad de los desarrolladores de software analizando distintos factores que están detallados en la wiki de github.
+Este desarrollo fue realizado en la plataforma de Google Colab.
 
 ## El proyecto contiene las siguientes partes:  
 
